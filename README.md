@@ -11,3 +11,4 @@ positive/negative correlations. Create a pair plot to visualize pairwise relatio
 5. Develop a program to implement k-Nearest Neighbour algorithm to classify the randomly generated 100 values of x in the range of [0,1]. Perform the following based on dataset generated. <br>
 &emsp;a. Label the first 50 points {x1, ……, x50} as follows: if (xi ≤ 0.5), then xi ∊ Class1, else xi ∊ Class2 <br>
 &emsp;b. Classify the remaining points: x51, ……, x100 using KNN. Perform this for k=1, 2, 3, 4, 5, 20, 30 <br>
+8. Develop a program to demonstrate the working of the decision tree algorithm. Use Breast Cancer Data set for building the decision tree and apply this knowledge to classify a new sample. <br>
