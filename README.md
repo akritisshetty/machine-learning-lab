@@ -12,7 +12,7 @@ positive/negative correlations. Create a pair plot to visualize pairwise relatio
 &emsp;a. Label the first 50 points {x1, ……, x50} as follows: if (xi ≤ 0.5), then xi ∊ Class1, else xi ∊ Class2 <br>
 &emsp;b. Classify the remaining points: x51, ……, x100 using KNN. Perform this for k=1, 2, 3, 4, 5, 20, 30 <br>
 6. Implement the non-parametric Locally Weighted Regression algorithm in order to fit data points. Select appropriate data set for your experiment and draw graphs. <br>
-7. Develop a program to demonstrate the working of Linear Regression and Polynomial Regression. Use Boston Housing Dataset for Linear Regression and Auto MPG Dataset (for vehicle fuel efficiency prediction) for Polynomial Regression. <br>
+7. Develop a program to demonstrate the working of Linear Regression and Polynomial Regression. Use California Housing Dataset for Linear Regression and Auto MPG Dataset (for vehicle fuel efficiency prediction) for Polynomial Regression. <br>
 8. Develop a program to demonstrate the working of the decision tree algorithm. Use Breast Cancer Data set for building the decision tree and apply this knowledge to classify a new sample. <br>
 9. Develop a program to implement the Naive Bayesian classifier considering Olivetti Face Data set for training. Compute the accuracy of the classifier, considering a few test data sets. <br>
 10. Develop a program to implement k-means clustering using Wisconsin Breast Cancer data set and visualize the clustering result. <br>
